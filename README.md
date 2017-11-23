@@ -4,8 +4,8 @@ This project integrates the UEditor into SpringMVC project which also replaces t
 
 该项目整合了百度UEditor与SpringMVC，并且将UEditor JAVA源码中的json处理库替换为阿里的fastjson，提高了运行速度。该项目配置简单，只需要将其源码下载并添加到项目中即可进行整合。如有问题请在issues中留言或者留下邮箱，我将抽时间一一解答。
 
-#Get started
-#开始整合
+## Getting started
+## 开始使用
 
 Firstly, you need to add fastjson dependency in yout pom.xml, in my project I use version 1.2.39, you can specify any version you like.
 
@@ -19,4 +19,8 @@ Firstly, you need to add fastjson dependency in yout pom.xml, in my project I us
 </dependency>
 ```
 
-#即将更新
+Then, clone the *baidu(src\main\java\com\baidu)* folder into your project. 
+
+接下来将 *baidu(src\main\java\com\baidu)* 文件夹放置到您的项目中
+
+### 待续...
